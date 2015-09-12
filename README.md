@@ -2,6 +2,14 @@
 
 I thought a fun Labor Day hack would be to pull down the PGA shot-by-shot data.  This week's tournament is at TPC Boston.  I will pull down the data and just explore what is possible.
 
+
+## Status
+
+This repo was intended to be a weekend hack.  I played around with two approaches using `R` and `python`, but realized that I should probably make the code more portable to any tournament, not one specific.  
+
+Currently this repo __is not finished__.
+
+
 ## Requirements / TODO
 
 #### Setup the environment  
